@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "SupervisorCompany.App Development": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    },
+    "SupervisorCompany.App Release": {
+      "commandName": "Project"
+    }
+  }
+}
